@@ -13,6 +13,5 @@ This is a Face-Recognition Web-App built using PERN Stack (Postgres,Express,Reac
     <li> Front End SPA created in React.js
     <li> Backend Express.js is used respectively.  
 </ul>
-<br>
 <h2> Note :- </h2>
 This web-app needs lot of improvement and is made as a result of learning FullStack Web development(using React&Node).
